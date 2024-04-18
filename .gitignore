@@ -161,3 +161,7 @@ cython_debug/
 
 /Session02/Session02_Lab/Lab Notes/.env
 
+# Ignore environment variables file
+Lab Notes/.env
+
+
